@@ -11,4 +11,5 @@ This project was created based on a productivity problem where every time we had
 ## How to install?
 
 * Clone the repo and run the command `yarn`.
-* Run `yarn dev` to start the application.
+* Alter you project for use (Repositories, controllers, database, route and index in src)
+* `yarn run dev` for run project
